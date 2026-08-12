@@ -56,7 +56,6 @@ data/hybrid/
 *.ipynb
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -72,8 +71,6 @@ logs/
 logs_*/
 
 # Environment
-.env
-.env.local
 
 # Kaggle
 credentials.json
@@ -104,3 +101,9 @@ data/real_world/
 
 # Deployment outputs
 infra/.last_outputs.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
